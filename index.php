@@ -14,7 +14,7 @@ set_time_limit(0);
 ini_set("memory_limit",-1);
 
 $leaf['version']="2.8";
-$leaf['website']="saikothasan.com";
+$leaf['website']="t.me/anonbd";
 
 
 $sessioncode = md5(__FILE__);
